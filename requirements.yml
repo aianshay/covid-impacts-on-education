@@ -1,0 +1,6 @@
+name: ds
+dependencies:
+  - python
+  - pandas
+  - matplotlib
+  - jupyterlab
