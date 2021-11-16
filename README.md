@@ -5,33 +5,19 @@ In this project, we analyzed the school performance and the school dropout rate 
 
 ### Research Questions (RQ)
 
-\begin{itemize}
-    \item[\textbf{RQ1.}] Was there a change in approval and failure rate during the pandemic?
-\end{itemize}
+**RQ1.** Was there a change in approval and failure rate during the pandemic?
 
-\begin{itemize}
-    \item[\textbf{RQ2.}] Was approval and failure rate the same for elementary school and high school during the pandemic?
-\end{itemize}
+**RQ2.** Was approval and failure rate the same for elementary school and high school during the pandemic?
 
-\begin{itemize}
-    \item[\textbf{RQ3.}] Was approval and failure rate the same between public and private schools?
-\end{itemize}
+**RQ3.** Was approval and failure rate the same between public and private schools?
 
-\begin{itemize}
-    \item[\textbf{RQ4.}] Was approval and failure rate the same for urban and rural schools?
-\end{itemize}
+**RQ4** Was approval and failure rate the same for urban and rural schools?
 
-\begin{itemize}
-    \item[\textbf{RQ5.}] Did the school dropout rate increase during the pandemic ?
-\end{itemize}
+**RQ5.** Did the school dropout rate increase during the pandemic?
 
-\begin{itemize}
-    \item[\textbf{RQ6.}] Was the school dropout rate the same in public and private schools?
-\end{itemize}
+**RQ6.** Was the school dropout rate the same in public and private schools?
 
-\begin{itemize}
-    \item[\textbf{RQ7.}] Was the school dropout rate the same in urban and rural schools?
-\end{itemize}
+**RQ7.** Was the school dropout rate the same in urban and rural schools?
 
 ## Installation
 
