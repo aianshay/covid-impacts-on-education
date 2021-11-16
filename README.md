@@ -18,35 +18,3 @@ In this project, we analyzed the school performance and the school dropout rate 
 **RQ6.** Was the school dropout rate the same in public and private schools?
 
 **RQ7.** Was the school dropout rate the same in urban and rural schools?
-
-## Installation
-
-
-### Requirements
-
-Use conda to install the requirements with:
-
-
-```
-conda env create -f requirements.yml --name covid-dashboard 
-```
-
-Activate the environment
-
-```
-conda activate covid-dashboard
-```
-
-## Obtaining data
-
-Extract data in the first use
-
-```
-make get_data
-```
-
-Run the server
-
-```
-make run_server 
-```
